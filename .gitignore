@@ -1,0 +1,22 @@
+# --- Базы данных (Конфиденциально!) ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Служебные файлы Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Виртуальные окружения ---
+venv/
+env/
+.venv/
+
+# --- Локальные настройки IDE (PyCharm, VS Code) ---
+.idea/
+.vscode/
+
+# --- Файлы операционной системы ---
+.DS_Store
+Thumbs.db
